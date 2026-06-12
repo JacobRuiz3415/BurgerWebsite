@@ -1,8 +1,16 @@
 h1{
     background-color: blue;
     color: red;
+    text-align: center;
 }
 
 P{
     background-color: lightgray;
+    text-align: center;
+}
+
+hamburger{
+    width: 30%;
+    height: 50%;
+    text-align: center;
 }
