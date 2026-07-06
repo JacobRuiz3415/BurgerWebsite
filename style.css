@@ -14,3 +14,19 @@ P{
     height: 50%;
     text-align: center;
 }
+a:hover{
+    color: rgb(201, 25, 13);
+    background-color: black;
+}
+a:visited{
+    color: blueviolet;
+}
+
+.ingredients{
+    list-style-type: decimal;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
