@@ -26,6 +26,10 @@ a:visited{
     list-style-type: decimal;
 }
 
+ul{
+    list-style: disc;
+}
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: white;
