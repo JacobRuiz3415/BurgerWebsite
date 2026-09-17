@@ -3,5 +3,5 @@
 This is my First Website outside of my web design class. This is about cheeseburgers.
 - history
 - recipe
-- source
+- sources
 Link: https://jacobruiz3415.github.io/BurgerWebsite/
